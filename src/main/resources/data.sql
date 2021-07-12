@@ -46,7 +46,7 @@ insert into produto (id, nome, descricao, qtd_estoque, valor, id_categoria, id_f
    (6, 'Semente',                  'Semente abacate Hass',                        943,    1.00, 3, 1, '2019-07-13', 6),
    (7, 'Azeite',                   'Extra Virgem 250ml',                           33,   28.00, 4, 1, '2012-12-15', 7),
    (8, 'Azeite Hass',              'Extra Virgem Hass 250ml',                      13,   37.00, 4, 1, '2020-01-04', 8),
-   (9, 'Shampoo',                  'Bomba De Vitaminas 325ml',                     22,   10.00, 5, 1, '2009-01-21', 9);
+   (9, 'Shampoo',                  'Bomba De Vitaminas 325ml',                     22,   10.00, 4, 1, '2009-01-21', 9);
    
 
 insert into pedido (id, id_cliente, data_pedido, status) values 
